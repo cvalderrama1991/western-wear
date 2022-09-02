@@ -10,7 +10,7 @@ const Header = () => {
       <header className="h-full flex items-center justify-between container mx-auto px-2">
         <div>
           <Link
-            to="/"
+            to="/western-wear"
             className="text-yellow-300 font-bold uppercase text-xl flex items-center gap-2"
           >
             <img src="./ww-icon.svg" alt="ww icon" className="h-8" />
