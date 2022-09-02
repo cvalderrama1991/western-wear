@@ -21,7 +21,7 @@ const Home = () => {
       </div>
       <div className="flex items-center justify-center">
         <img
-          src="western-wear/cow-skull.svg"
+          src="./cow-skull.svg"
           alt="ww skull icon"
           className="min-w-full max-h-[60vh]"
         />

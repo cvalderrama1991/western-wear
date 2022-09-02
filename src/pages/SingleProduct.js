@@ -16,7 +16,7 @@ const SingleProduct = () => {
       <div className="flex flex-col rounded max-w-2xl bb-white">
         <div className="relative">
           <img
-            src={product.image}
+            src={`..western-wear/${product.image}`}
             alt={product.name}
             className="max-h-[600px] w-full"
           />
