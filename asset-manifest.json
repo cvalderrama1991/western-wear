@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/western-wear/static/css/main.be1442ba.css",
-    "main.js": "/western-wear/static/js/main.5cd06e9e.js",
-    "index.html": "/western-wear/index.html",
-    "main.be1442ba.css.map": "/western-wear/static/css/main.be1442ba.css.map",
-    "main.5cd06e9e.js.map": "/western-wear/static/js/main.5cd06e9e.js.map"
+    "main.css": "/static/css/main.be1442ba.css",
+    "main.js": "/static/js/main.ac7ac93a.js",
+    "index.html": "/index.html",
+    "main.be1442ba.css.map": "/static/css/main.be1442ba.css.map",
+    "main.ac7ac93a.js.map": "/static/js/main.ac7ac93a.js.map"
   },
   "entrypoints": [
     "static/css/main.be1442ba.css",
-    "static/js/main.5cd06e9e.js"
+    "static/js/main.ac7ac93a.js"
   ]
 }
